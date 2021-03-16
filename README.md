@@ -17,3 +17,6 @@ Se puede dar el caso, de que otro miembro del grupo trabaje sobre el proyecto; e
 Modifica, hace commit y hace push.
 
 Con lo cual, la versión que hay en el repo es DISTINTA de la que tengo en mi ordenador.
+
+## ¡¡Git y GitHub son maravillosos!!
+
