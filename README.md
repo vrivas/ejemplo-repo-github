@@ -9,3 +9,5 @@ Entonces, resumiendo:
 * he hecho modificaciones
 * he hecho commits (varios)
 * finalmente, hago un push.
+
+Después de hacer el push, hemos comprobado que, efectivamente, se ha sincronizado con el repo principal.
