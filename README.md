@@ -11,3 +11,9 @@ Entonces, resumiendo:
 * finalmente, hago un push.
 
 Después de hacer el push, hemos comprobado que, efectivamente, se ha sincronizado con el repo principal.
+
+Se puede dar el caso, de que otro miembro del grupo trabaje sobre el proyecto; en el mismo fichero, o en otros distintos.
+
+Modifica, hace commit y hace push.
+
+Con lo cual, la versión que hay en el repo es DISTINTA de la que tengo en mi ordenador.
