@@ -2,7 +2,7 @@
 
 Hola, soy Víctor y esto es un ejemplo de repo para mostrar cómo funciona GitHub.
 
-Entonces, resumiendo:
+_Entonces, resumiendo:_
 
 * he creado un nuevo repo
 * lo he clonado en mi ordenador
